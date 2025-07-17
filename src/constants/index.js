@@ -94,34 +94,12 @@ const technologies = [
     icon: reactjs,
   },
   {
-    name: "gsap",
-    icon: gsap,
-  },
-  {
-    name: "framer",
-    icon: framer,
-  },
-
- 
-  {
-    name: "Three JS",
-    icon: threejs,
-  },
-  {
     name: "figma",
     icon: figma,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
-  },
-  {
     name: "Tailwind CSS",
     icon: tailwind,
-  },
-  {
-    name: "Material Ui",
-    icon: mui,
   },
   {
     name: "Node JS",
@@ -132,24 +110,9 @@ const technologies = [
     icon: express,
   },
   {
-    name: "AWS",
-    icon: aws,
-  },
-  {
-    name: "MongoDB",
-    icon: mongodb,
-  },
-  {
     name: "MySql",
     icon: mysql,
   },
-
-  {
-    name: "git",
-    icon: git,
-  },
- 
-
 ];
 
 const experiences = [
@@ -160,10 +123,9 @@ const experiences = [
     iconBg: "#383E56",
     date: "Jan 2023 - present",
     points: [
-      "Developing and maintaining web applications using MERN technologies.",
+      "Developing and maintaining web applications using Front-end technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
 ];
